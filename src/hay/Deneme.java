@@ -3,8 +3,9 @@ package hay;
 public class Deneme {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Deneme 17.11.20 de yazildi - Saat 17:26");
+		System.out.println("Deneme 17.11.20 de yazildi - Saat 18:58 - bunu ikinci olarak yazdik ");
+		
 	}
 
 }
